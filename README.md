@@ -3,7 +3,7 @@
 > **Analyst-style ESG research series evaluating listed companies using a structured sustainability assessment framework.**
 
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="ESG Decoded Banner">
+  <img src="assets/Banner.png" width="100%" alt="ESG Decoded Banner">
 </p>
 
 <p align="center">
